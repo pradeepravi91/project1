@@ -1,6 +1,9 @@
+
+/*this is just trial documentation*/
 public class LinearSearch {
 
-    public static int linearSearch(int[] arr, int key) {
+   
+	public static int linearSearch(int[] arr, int key) {
 
         int size = arr.length;
         for (int i = 0; i < size; i++) {
